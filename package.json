@@ -36,7 +36,6 @@
     "app/*"
   ],
   "sapux": [
-    "app/customer",
     "app/project1"
   ]
 }
