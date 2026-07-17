@@ -1,0 +1,7 @@
+###
+get the list of customers
+GET http://localhost:8080/customers
+
+###
+import the list of customers
+POST http://localhost:8080/customers/import
